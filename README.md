@@ -2,12 +2,14 @@
 
 ...
 
-# PROJECT OBJECTIVE:Discover commuters trends
+# PROJECT OBJECTIVE:
+Discover commuters trends
 
 ...
 
 
-# DATA SOURCINGg:youtube(Alex the analyst)https://youtu.be/opJgMj1IUrc
+# DATA SOURCINGg:
+youtube(Alex the analyst)https://youtu.be/opJgMj1IUrc
 
 '''
 
