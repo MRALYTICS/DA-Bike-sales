@@ -1,26 +1,31 @@
-#Project Name DA-Bike-sales
+# PROJECT NAME:DA-BIKE-SALES
+
 ...
 
-#Project objective
-Discover commuters trends
+# PROJECT OBJECTIVE:Discover commuters trends
+
 ...
 
-#Data sourcing
-youtube(Alex the analyst)https://youtu.be/opJgMj1IUrc
 
-#Data transformation
+# DATA SOURCINGg:youtube(Alex the analyst)https://youtu.be/opJgMj1IUrc
 
+'''
+
+
+# DATA TRANAFORMATION:
 Removed duplicates
 
 Changed 'M" and "s" in column B(marital status) to Married and single
 
 Changed "m" amd "s" in column c (Gender) to Male and Female)
 
-Created a new column for "Age bracket" using the if statement 
+Created a new column for "Age bracket" using the if statement
+
+ 
 
 ...
 
-#Findings and recommendation
+# FINDINGS AND RECOMMENDATIONS:
 
 I discovered commuters who stayed a mile away purchased more bikes
 i also dicoverd the middle age bracket purchased more bikes
